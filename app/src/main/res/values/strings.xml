@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Questionnaire</string>
+
+
+
+    <string name="error">Error</string>
+    <string name="permissions_needed">Permissions needed!</string>
+    <string name="permissions_needed_descr">It is needed to accept all the permissions in order to run the application correctly.</string>
+    <string name="permissions_needed_check">Check Permissions</string>
+    <string name="permissions_needed_close">Close App</string>
+    <string name="permissions_needed_open">Open Settings</string>
+    <string name="videocalling_skype">Videocalling via Skype...</string>
+    <string name="install_skype">Install the Skype application to videocall.</string>
+    <string name="sms_sent">SMS Sent!</string>
+    <string name="no_data_available">No data available</string>
+    <string name="cinema_1">There are 24 James Bond movies</string>
+    <string name="culture_1">Native Americans used to name their children after the first thing they saw as they left their tepees after their children were born, hence the names Sitting Bull and Running Water.</string>
+    <string name="culture_2">The Matami Tribe of West Africa play their own version of football, instead of a normal football they use a human skull.</string>
+    <string name="culture_3">Written language was invented independently by the Egyptians, Sumerians, Chinese, and Mayans.</string>
+    <string name="culture_4">The Spanish national anthem has no words.</string>
+    <string name="curiosities_1">Coca-Cola would be green if the food colorant wasn\'t added.</string>
+    <string name="curiosities_2">Coffins used for cremation are usually made with plastic handles.</string>
+    <string name="curiosities_3">Almost is the longest word in the English language with all the letters in alphabetical order.</string>
+    <string name="curiosities_4">Human thigh bones are stronger than concrete.</string>
+    <string name="curiosities_5">Cockroaches can live several weeks with their heads cut off.</string>
+    <string name="curiosities_6">Of all the words in the English language, the word SET has the most definitions.</string>
+    <string name="curiosities_7">The world\'s oldest piece of chewing gum is over 9.000 years old</string>
+    <string name="curiosities_8">Scientists have tracked butterflies travelling over 3.000 miles</string>
+    <string name="curiosities_9">The silkworm consumes 86.000 times its own weight in 56 days</string>
+    <string name="curiosities_10">If removed from the stress of the modern world, the average human would sleep about 10 hours a day</string>
+    <string name="curiosities_11">To produce a single pound of honey, a single bee would have to visit 2 million flowers</string>
+    <string name="curiosities_12">A colony of 500 bats can eat approximately 250.000 insects in an hour.</string>
+    <string name="curiosities_13">One in Five adults believe that aliens are hiding in our planet disguised as humans.</string>
+    <string name="curiosities_14">The average American spends about a year and a half of his or her life watching commercials on television.</string>
+    <string name="curiosities_15">Just like fingerprints, everyone\'s tongue is different</string>
+    <string name="curiosities_16">The longest recorded flight of a chicken is 13 seconds</string>
+    <string name="curiosities_17">11 percent of the World is left handed</string>
+    <string name="exhibitions_1">In 1903 the Wright Brothers flew for the first time. 66 years later, man landed on the Moon in 1969.</string>
+    <string name="exhibitions_2">In 1386 a pig in France was executed by public hanging for the murder of a child.</string>
+    <string name="sports_1">James Fixx, the man who popularized jogging in America died of a heart attack while running.</string>
+    <string name="sports_2">The state sport of Maryland in the United States is jousting.</string>
+    <string name="world_1">Honey does not spoil. You could feasibly eat 3000 year old honey.</string>
+    <string name="world_2">The woolly mammoth was still around when the pyramids were being built.</string>
+    <string name="world_3">There are more possible iterations of a game of chess than there are atoms in the known universe.</string>
+    <string name="world_4">It would take more than a million mosquitoes, each sucking once, to completely drain the average human of blood.</string>
+    <string name="world_5">You breathe on average about 5 million times a year.</string>
+    <string name="world_6">Months that begin on a Sunday always have a Friday the 13th in them.</string>
+    <string name="world_7">You are born with 300 bones, by the time you are an adult you will have 206.</string>
+    <string name="world_8">The average lead pencil will write a line about 35 miles long or write approximately 50,000 English words.</string>
+    <string name="world_9">One fourth of the bones in your body are in your feet.</string>
+    <string name="world_10">The average person spends 2 weeks of their lifetime waiting for the light to change from red to green.</string>
+    <string name="world_11">It takes more calories to eat a piece of celery than the celery has in it.</string>
+    <string name="world_12">The present population is expected to rise to 15 Billion by the year 2080.</string>
+    <string name="world_13">The largest recorded snowflake was 15 inches wide and 8 inches thick.</string>
+    <string name="world_14">During the 17th Century, the Sultan of Turkey ordered his hole harem of women to be drowned and replaced with a new one.</string>
+    <string name="world_15">It is against the law to burp, or sneeze inside a church in Nebraska.</string>
+    <string name="world_16">Earth is the only planet not named after a god.</string>
+    <string name="world_17">Travelling masseuses in ancient Japan were required by law to be blind.</string>
+
+</resources>
