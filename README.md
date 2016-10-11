@@ -7,7 +7,7 @@
 Creating an application integrated with the Personal Assistant, enables the application to have a controlled dialogue to interact faster and more human friendly than ever.
 This is a system that requires the Personal Assistant, which is the controller for all the components and CADE, which handles the voice logic to enable the developers an easy access to the voice action events, which can be human friendly!
 
-(this Application description)
+This application is useful to know curiosities about different things in the world. The alfred assistant will ask you about a topic you want to know about, and will tell you different interesting texts. Apart from that, the alfred assistant will occasionally wake up to ask you something, that will make you feel like the assistant is interacting with you.
 
 Creating an application in Android is simple, so it is to integrate the following components.
 First it is required to install the Personal Assistant application to enable the service that communicates the events.
